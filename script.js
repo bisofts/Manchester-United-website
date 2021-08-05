@@ -50,7 +50,7 @@ let legendList = [
   }],
   ['giggs','Ryan Giggs',
   {
-    fullname: "ryan giggs",
+    fullname: "Ryan Giggs",
     name: "giggs",
     birth: "29/11/1973",
     national: "wales",
