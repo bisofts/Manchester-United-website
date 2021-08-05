@@ -265,8 +265,9 @@ MANAGER
 .button-set{
     display: flex;
     position: absolute;
-    left: 590px;
+    left: 567px;
     bottom: 70px;
+    
 }
 .btn-radio{
     width: 15px;
