@@ -113,7 +113,7 @@ let legendList = [
     }
   }],['rooney','wayne rooney',
   {
-    fullname: "wayne rooney",
+    fullname: "Wayne Rooney",
     name: "rooney",
     birth: "16/11/1974",
     national: "england",
